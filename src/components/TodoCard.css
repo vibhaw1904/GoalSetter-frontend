@@ -1,0 +1,33 @@
+.todos{
+   
+    background-color: #3F72AF;
+    box-shadow: 0 2px 8px rgba(0,0,0,.26);
+    color: black;
+    cursor: pointer;
+    width: 475px;
+    margin: 1rem 0;
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+.conatiner-todos{
+    /* background: #8b005d;
+    box-shadow: 0 2px 8px rgba(0,0,0,.26);
+    color: #fff;
+    cursor: pointer;
+    margin: 1rem 0;
+    padding: 1rem 2rem; */
+    display: flex;
+    /* margin: 0px auto; */
+    justify-content: center;
+    align-items: center;
+}
+.btn-container button{
+    background-color: #112D4E;
+    border-color: #112D4E;
+    border-radius: 4px;
+    color: white;
+}
+.btn-container button:hover{
+    background-color: #102847;
+}

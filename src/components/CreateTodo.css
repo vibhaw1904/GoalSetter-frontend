@@ -1,0 +1,29 @@
+.container {
+    border-radius: 10px;
+    box-shadow: 0 2px 12px rgba(0,0,0,.2);
+    padding: 2rem;
+    width: 30rem;
+    margin: 21px auto;
+    background-color: #3F72AF;
+}
+.container .task{
+    margin: 0.5rem 0;
+}
+.container .task input{
+    border: 1px solid #ccc;
+    display: block;
+    font: inherit;
+    line-height: 1.5rem;
+    padding: 0 0.25rem;
+    width: 100%;
+}
+.btn-task button{
+    background: #112D4E;
+    border: 1px solid #3F72AF;
+    box-shadow: 0 0 4px rgba(0,0,0,.26);
+    color: #fff;
+    cursor: pointer;
+    font: inherit;
+    padding: 0.5rem 1.5rem;
+    width: 100%;
+}
